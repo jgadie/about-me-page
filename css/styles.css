@@ -1,0 +1,30 @@
+.taco {
+  color: navy;
+}
+
+.nacho {
+  font-size: 18px;
+  font-style: oblique;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  font-style:  normal;
+  font-family: cursive;
+  text-align: center;
+}
+h3{
+  font-style: italic;
+  text-align: left;
+}
+
+
+
+@media screen and (max-width: 768px) {
+  body {
+    background-color: gray;
+  }
+}
